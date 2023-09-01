@@ -1,0 +1,37 @@
+* {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.titleh1{
+  background-color: #212529;
+  color: white;
+  padding: 5px;
+  margin-bottom: 20px;
+}
+.text-input{
+width: 70px;
+height: 70px;
+border: 1px solid gray;
+border-radius: 5px;
+margin: 5px;
+font-size: 20px;
+font-weight: bold;
+}
+label{
+  font-weight: bold;
+  color: gray;
+}
+button{
+  font-weight: bold !important;
+  padding: 10px 25px !important;
+  font-size: 25px !important;
+}
+.hd{
+  padding: 5px;
+  color: black;
+  font-size: 15px;;
+}
+
